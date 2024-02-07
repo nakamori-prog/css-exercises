@@ -1,5 +1,10 @@
 p {
     background-color: RGB(255,102,102);
     font-family: "Verdana","DejaVu Sans",sans-serif;
-    
+
+}
+
+.no2 {
+    color: rgb(0,0,230);
+    font-size:"36px"
 }
