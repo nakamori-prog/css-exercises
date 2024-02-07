@@ -5,16 +5,16 @@
 }
 
 .odd.no3 {
-    font-size: "24px";
+    font-size:24px;
 }
 
 #no2 {
     color: rgb(0,0,230);
-    font-size:"36px"
+    font-size:36px;
 }
 
 #no4 {
     background-color: rgb(149,255,128);
-    font-size: "24px";
+    font-size:24px;
     font-weight: bold;
 }
